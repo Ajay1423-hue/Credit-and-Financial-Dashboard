@@ -2,6 +2,7 @@
 A credit and financial Power BI dashboard provides a visual representation of key metrics and insights related to an individual's or organization's credit and financial health. It typically includes various components that help in analyzing credit scores, loan information, financial ratios, payment history, and overall financial performance. 
 
 Objective of a Credit and Financial Power BI Dashboard:
+
 The main goal of a credit and financial Power BI dashboard is to provide comprehensive insights into an organization's financial health and credit risk exposure. The dashboard helps in tracking key financial metrics, analyzing credit portfolios, and evaluating financial performance. It enables stakeholders to make data-driven decisions to manage risk, optimize credit strategies, and improve overall financial management.
 
 Uses of a Credit and Financial Power BI Dashboard
